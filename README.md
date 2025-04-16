@@ -1,1 +1,2 @@
 # my_transformer
+在这个仓库中，我通过python中pytorch框架搭建了一个transformer架构，通过实现多头注意力机制，位置编码模块，组合成为了解码器以及编码器以上两个模块。
